@@ -17,6 +17,6 @@
 You can find a demo for this theme on SMF Tricks: [Demo](https://demo.smftricks.com/index.php?theme=31)
 
 ## Copyright
-Rockstar Games, Rockstar North, Rockstar Leeds, Rockstar Lincoln, Rockstar San Diego, Rockstar Toronto, Rockstar Vancouver, the logo , and related logos are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc.
+Rockstar Games, Rockstar North, Rockstar Leeds, Rockstar Lincoln, Rockstar San Diego, Rockstar Toronto, Rockstar Vancouver, the logo, and related logos are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc.
 
 "GTA" is intellectual property from Rockstar Games.
